@@ -2,14 +2,7 @@
 
 
 namespace Rywan\LaravelTapPayment;
-use Illuminate\Http\Request;
-use App;
-use Config;
- /*
- */
-/**
- *
- */
+
 
 class TapSettings
 {
