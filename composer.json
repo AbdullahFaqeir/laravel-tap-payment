@@ -2,7 +2,7 @@
     "name": "sfwanessam/laravel-tap-payment",
     "description": "Php SDK for Tap Payment Gateway",
     "type": "library",
-    "require": {
+    "require-dev": {
         "illuminate/support": "^5.5",
         "php": "^7.0.0",
         "guzzlehttp/guzzle": "~5.0"
