@@ -1,4 +1,4 @@
-> Short blurb about what your product does.
+> Php SDK for Tap Payment Gateway.
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
