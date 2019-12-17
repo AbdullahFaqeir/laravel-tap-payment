@@ -1,5 +1,5 @@
 {
-    "name": "sfwanessam/LaravelTapPayment",
+    "name": "LaravelTapPayment",
     "description": "Php SDK for Tap Payment Gateway",
     "type": "library",
     "require": {
