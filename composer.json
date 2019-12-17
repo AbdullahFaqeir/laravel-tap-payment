@@ -5,7 +5,7 @@
     "require": {
         "illuminate/support": "^5.5",
         "php": "^7.0.0",
-        "guzzlehttp/guzzle": "6.5.0"
+        "guzzlehttp/guzzle": "6.4.1"
     },
     "autoload" : {
       "psr-4" : {
