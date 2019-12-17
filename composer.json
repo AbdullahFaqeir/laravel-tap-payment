@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "illuminate/support": "^5.5",
-        "guzzlehttp/guzzle"
+        "guzzlehttp/guzzle" "^4.2.4"
     },
     "autoload" : {
       "psr-4" : {
