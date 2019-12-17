@@ -3,7 +3,7 @@
     "description": "Php SDK for Tap Payment Gateway",
     "type": "library",
     "require": {
-        "php": "^7.0.0",
+        "php": ">=7.0.0",
         "illuminate/support": "^5.5",
         "guzzlehttp/guzzle" : "^5.3.3"
     },
