@@ -3,11 +3,12 @@
     "description": "Php SDK for Tap Payment Gateway",
     "type": "library",
     "require": {
-        "php": ">=7.0.0"
+        "php": ">=7.0.0",
+        "laravel/framework" : "~5.2.0||~5.3.0||~5.4.0||~5.5.0||~5.6.0||~5.7.0||~5.8.0",
+        "guzzlehttp/guzzle" : "6.*"
     },
     "require-dev": {
-        "illuminate/support": "^5.5",
-        "guzzlehttp/guzzle" : "^5.3.3"
+        "phpunit/phpunit" : "6.0.*|8.0."
     },
     "autoload" : {
       "psr-4" : {
