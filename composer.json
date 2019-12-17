@@ -2,7 +2,10 @@
     "name": "sfwanessam/laravel-tap-payment",
     "description": "Php SDK for Tap Payment Gateway",
     "type": "library",
-    
+    "require": {
+        "php": ">=7.0.0",
+        
+    },
     "autoload" : {
       "psr-4" : {
         "Rywan\\LaravelTapPayment\\" : "src/"
