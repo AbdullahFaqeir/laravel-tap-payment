@@ -1,5 +1,5 @@
 Installation
-Install the package via composer: composer require sfwanessam/LaravelTapPayment
+Install the package via composer: composer require sfwanessam/laravel-tap-payment
 
 Config Files
 In order to edit the default configuration you may execute:
