@@ -1,6 +1,8 @@
 > Php SDK for Tap Payment Gateway.
 
-
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 
 # Getting Started
