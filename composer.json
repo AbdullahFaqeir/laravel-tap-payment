@@ -1,0 +1,30 @@
+{
+    "name": "sfwanessam/laravel-tap-payment",
+    "description": "Php SDK for Tap Payment Gateway",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^5.5",
+        "php": "^7.0.0",
+        "guzzlehttp/guzzle": "6.5.0"
+    },
+    "autoload" : {
+      "psr-4" : {
+        "Rywan\\LaravelTapPayment\\" : "src/"
+      },
+    },
+    "extra": {
+    "laravel": {
+        "providers": [
+            "Rywan\\LaravelTapPayment\\Providers\\TapServiceProvider"
+        ]
+        }
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Sfwan Essam",
+            "email": "sfwanessam9@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
